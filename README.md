@@ -79,7 +79,7 @@ trophy (start) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="right">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Backend</h2></summary>
   </ul>
 </div>
@@ -92,20 +92,20 @@ trophy (start) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="right">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Frontend</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,md,py,js,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,md,py,js,ts,angular&perline=14" />
   </a>
 </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="right">
+  <ul align="center">
     <summary><h2 style="display: inline-block">Tools</h2></summary>
   </ul>
 </div>
