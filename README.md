@@ -99,7 +99,7 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,md,py,js,ts,angular,threejs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,angular,threejs,css,html,md&perline=14" />
   </a>
 </p>
 
