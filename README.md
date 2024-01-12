@@ -86,7 +86,7 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,postgres,mysql,nodejs,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,postgres,sequelize,mysql,nodejs,firebase&perline=14" />
   </a>
 </p>
 
@@ -99,7 +99,7 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,md,py,js,ts,angular&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,md,py,js,ts,angular,threejs&perline=14" />
   </a>
 </p>
 
@@ -112,7 +112,7 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,discord,linux, windows, latex, ableton, postman vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,discord,linux,arduino,autocad,blender,latex,ableton,postman,vim,gitlab,raspberrypi vscode&perline=14" />
   </a>
 </p>
 
