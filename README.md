@@ -45,7 +45,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jwmcfarland&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jwmcfarland&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get your stats at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jwmcfarland&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -73,13 +73,46 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Current Knowledge Base</h2></summary>
+  </ul>
+</div>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="right">
+    <summary><h2 style="display: inline-block">Backend</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,express,github,html,linux,md,materialui,postgres,mysql,nodejs,postman,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,postgres,mysql,nodejs,postman,firebase&perline=14" />
+  </a>
+</p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="right">
+    <summary><h2 style="display: inline-block">Frontend</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,md,py,js,ts&perline=14" />
+  </a>
+</p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="right">
+    <summary><h2 style="display: inline-block">Tools</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,discord,linux, windows, latex, ableton, vscode&perline=14" />
   </a>
 </p>
 
@@ -99,17 +132,11 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=jwmcfarland&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
+Updated: [jwmcfarland](hhtps://github.com/jwmcfarland)
 
-Last Edited on: 29/4/2023
+Last Edited on: 12/1/2024
