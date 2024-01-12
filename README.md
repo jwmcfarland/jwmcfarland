@@ -86,7 +86,7 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,postgres,mysql,nodejs,postman,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,postgres,mysql,nodejs,firebase&perline=14" />
   </a>
 </p>
 
@@ -112,7 +112,7 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,discord,linux, windows, latex, ableton, vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,discord,linux, windows, latex, ableton, postman vscode&perline=14" />
   </a>
 </p>
 
