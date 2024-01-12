@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jwmcfarland
-- 👀 I’m interested in python, opengl, sql, web development, etc
-- 🌱 I’m currently learning c++, game developement, etc
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full-stack web development [Angular, Node.js, Postgres]
 - 📫 How to reach me ...
 
 <!---
