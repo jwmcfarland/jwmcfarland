@@ -36,26 +36,7 @@
 
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jwmcfarland&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get your stats at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jwmcfarland&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jwmcfarland&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
 
 <!--- trophy (start)
 <div align=center>
@@ -64,9 +45,7 @@
     </a>
 </div>
 trophy (start) -->
-
-
-</p>        
+ 
 <!--- stats (end) -->
 
 
