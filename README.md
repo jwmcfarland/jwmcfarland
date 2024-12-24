@@ -9,14 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -35,20 +27,6 @@
 <!--Intro end-->
 
 
-
-
-
-<!--- trophy (start)
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jwmcfarland&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-trophy (start) -->
- 
-<!--- stats (end) -->
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -65,20 +43,20 @@ trophy (start) -->
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,postgres,sequelize,mysql,nodejs,firebase&perline=14" />
+    <img src="https://skillicons.dev/icons?i=express,postgres,sequelize,nodejs&perline=14" />
   </a>
 </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Frontend</h2></summary>
+    <summary><h2 style="display: inline-block">Frontend+</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,angular,threejs,css,html&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,ts,angular,threejs,css,html&perline=14" />
   </a>
 </p>
 
